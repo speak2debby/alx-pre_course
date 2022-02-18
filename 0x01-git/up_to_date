@@ -1,5 +1,1 @@
-git init.
-git add up_to_date
-git status
-git commit -m “How to be up to date in git”
-git push origin 
+touch up_to_date
